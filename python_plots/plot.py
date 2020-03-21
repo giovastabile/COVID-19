@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-countries = ["Italy","Germany","France","Spain"]
+countries = ["Italy","Germany","US","Spain"]
 Confirmed = True
 Deaths = False
 Recovered = False
